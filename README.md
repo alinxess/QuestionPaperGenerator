@@ -13,4 +13,10 @@ A data.json file is used for getting inputs for questions. This file contains on
 1)science - {plants, animals}
 2)history- {ancient, medieval}
 
+In this project, index.js files works on getting input from user about which subject & topic ,they want to create question paper, and call createPaper() method through QuestionGenerator class. And QuestionGenerator class creates paper with MCQ pattern or without it(only questions) according to the user choice.
+
+To run this project, use " node index.js"
+
+
+
 

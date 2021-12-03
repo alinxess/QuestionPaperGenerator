@@ -1,0 +1,579 @@
+[
+  {
+    "subject":"science",
+    "topic": [
+      {
+        "topicname": "plants",
+        "level":
+                [
+                  {
+                    "lname": "easy",
+                    "ques":["Trees are leafless for a shorter or longer season of the year in?",
+                      "Oxygen liberated during photosynthesis is coming from?",
+                      "Stilt roots are found in ?",
+                      "With which one of the following is Dalbergia species associated?",
+                      "Which one of the following parts of the pitcher plant becomes modified into a pitcher?",
+                      "What type of roots are the hanging structures in a banyan tree?",
+                      "Fruits of this plant are found underground -?",
+                      "Which of the following is the tallest perennial grass?",
+                      "Which of the following is not a root?",
+                      "Cotton fibre is obtained from which part of the plant?"],
+                    "ans": [
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [4,5,6]
+                      },
+                      {
+                        "answer": [7,8,9]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [4,5,6]
+                      },
+                      {
+                        "answer": [7,8,9]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      }
+                    ]
+                  },
+                  {
+                    "lname": "medium",
+                    "ques": ["Which of the following is not a micronutrient for a plant?",
+                      "Which one among the following nutrients is a structural component of the cell of plants?",
+                      "The common edible mushroom is a?",
+                      "The main function of the inner bark of a woody plant is to?",
+                      "Sandalwood tree is considered a?",
+                      "Biological catalysts in living organisms are known as?",
+                      "Which of these trees do not have annual growth rings?",
+                      "Which one of the following types of plants produces spores and embryo, but without seeds and vascular tissues?",
+                      "Which among the following is not a true fruit?",
+                      "Xerophytes thrive in?"],
+                    "ans": [
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [4,5,6]
+                      },
+                      {
+                        "answer": [7,8,9]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [4,5,6]
+                      },
+                      {
+                        "answer": [7,8,9]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      }
+                    ]
+                  },
+                  {
+                    "lname": "hard",
+                    "ques": ["Which of the following is not a micronutrient for a plant?",
+                      "Which one among the following nutrients is a structural component of the cell of plants?",
+                      "The common edible mushroom is a?",
+                      "The main function of the inner bark of a woody plant is to?",
+                      "Sandalwood tree is considered a?",
+                      "Biological catalysts in living organisms are known as?",
+                      "Which of these trees do not have annual growth rings?",
+                      "Which one of the following types of plants produces spores and embryo, but without seeds and vascular tissues?",
+                      "Which among the following is not a true fruit?",
+                      "Xerophytes thrive in?"],
+                    "ans": [
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [4,5,6]
+                      },
+                      {
+                        "answer": [7,8,9]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      },
+                      {
+                        "answer": [4,5,6]
+                      },
+                      {
+                        "answer": [7,8,9]
+                      },
+                      {
+                        "answer": [1,2,3]
+                      }
+                    ]
+                  }
+                ]
+      },
+      {
+        "topicname": "animals",
+        "level":
+        [
+          {
+            "lname": "easy",
+            "ques":["How many hearts does an octopus have?",
+              "An earthworm breathe with the help of?",
+              "Which bird can fly backwards?",
+              "Which species of bird flies at the highest elevation?",
+              "Which animal has largest brain in the World?",
+              "How many muscles in each ear of a cat?",
+              "Which animal exclusively eat only eucalyptus leaves and nothing else?",
+              "How far can an owl rotate its head?",
+              "The age of a lion can be determined from its?",
+              "One horn rhino is found in?"],
+            "ans": [
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              }
+            ]
+          },
+          {
+            "lname": "medium",
+            "ques": [" Rhino horn is made up of?",
+              "Name the only country where both tigers and lions are found?",
+              "How many subspecies of tiger found in the world?",
+              "Which one is the largest in size among the subspecies of tiger?",
+              "What is the scientific name of Bengal Tiger?",
+              "How many stripes on each side of a Grevy's zebra have?",
+              "Which animal can create the loudest sound among any living creature?",
+              "Which animal has no vocal chords?",
+              "Total number of brains available in a Leech?",
+              "Name the only mammal with hair on the soles of its feet?"],
+            "ans": [
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              }
+            ]
+          },
+          {
+            "lname": "hard",
+            "ques": ["How many hearts does an octopus have?",
+              "An earthworm breathe with the help of?",
+              "Which bird can fly backwards?",
+              "Which species of bird flies at the highest elevation?",
+              "Which animal has largest brain in the World?",
+              "How many stripes on each side of a Grevy's zebra have?",
+              "Which animal can create the loudest sound among any living creature?",
+              "Which animal has no vocal chords?",
+              "Total number of brains available in a Leech?",
+              "Name the only mammal with hair on the soles of its feet?"],
+            "ans": [
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+
+  },
+  {
+    "subject":"history",
+    "topic": [
+      {
+        "topicname": "ancient",
+        "level":
+        [
+          {
+            "lname": "easy",
+            "ques":["Which of the following inscription are related to Satavahanas period?",
+              "Which among the following Satavahana / Satakarni rulers recovered Malwa from the Shaka rulers?",
+              "The rulers of which among the following dynasties called themselves “Brahma-Kshatriay”?",
+              "In the Rigvedic Dasrajan Yudha (Battle of Ten Kings) the Bharatas emerged winner at the bank of __?",
+              "Who among the following was the author of Abhidhamma treatise Kathavatthu?",
+              "Vallabhi era is identical with which of the following era?",
+              "Who was the brother-in-law of Harshavardhan ?",
+              "Who among the following Pallava ruler built Vaikuntaperumal temple at Kanchi ?",
+              "The famous Konark Sun temple was built by whom?",
+              "Which among the following Mudra is the gesture of Buddha as depicted in his first sermon?"],
+            "ans": [
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              }
+            ]
+          },
+          {
+            "lname": "medium",
+            "ques": ["At which among the following places, Chandragupta Maurya spent his last days?",
+              "In which of the following modern State, most of the 24 Tirthankar of Jainism attained nirvana?",
+              "Who is the author of Devichandraguptam?",
+              "Who among the following has been described by Banabhatta as “a lion to the Huna deer’?",
+              "Gopatha Brahman is a part of which of the following Vedas?",
+              "Who is Kumara in the epic poem Kumarasambhava written by Kalidasa?",
+              "Charak was a contemporary of which of the following Kings?",
+              "Nigashtha, Natputra, Nirgranth & Saatputra are various names of which of the following?",
+              "Algebra was invented by which of the following Ancient Indian Mathematicians?",
+              "In Vedic age which among the following grains was referred as vrihi?"],
+            "ans": [
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              }
+            ]
+          },
+          {
+            "lname": "hard",
+            "ques": ["Which of the following inscription are related to Satavahanas period?",
+              "Which among the following Satavahana / Satakarni rulers recovered Malwa from the Shaka rulers?",
+              "The rulers of which among the following dynasties called themselves “Brahma-Kshatriay”?",
+              "In the Rigvedic Dasrajan Yudha (Battle of Ten Kings) the Bharatas emerged winner at the bank of __?",
+              "Who among the following was the author of Abhidhamma treatise Kathavatthu?",
+              "Who is Kumara in the epic poem Kumarasambhava written by Kalidasa?",
+              "Charak was a contemporary of which of the following Kings?",
+              "Nigashtha, Natputra, Nirgranth & Saatputra are various names of which of the following?",
+              "Algebra was invented by which of the following Ancient Indian Mathematicians?",
+              "In Vedic age which among the following grains was referred as vrihi?"],
+            "ans": [
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topicname": "medieval",
+        "level":
+        [
+          {
+            "lname": "easy",
+            "ques":["In medieval India, Solanki queen Naikidevi defeated which of the following invaders in the Battle of Kayadara?",
+              "In medieval India, Solanki queen Naikidevi defeated which of the following invaders in the Battle of Kayadara?",
+              "Which of the following rulers earned the title of Purvapaschima Samudradhishavara?",
+              "The temples of Halebid and Belur were built by which among the following dynasties?",
+              "In which year, Akbar had centralized the control and functioning of various mints?",
+              "Dwarasamudra was the capital of which of the following dynasties?",
+              "With reference to Bahadur Shah Zafar, which among the following statements is not true?",
+              "After the death of Aurangzeb , which of the following Mughals abolished jazia tax for the first time?",
+              "Who among the following was the founder of Rastrakuta dynasty ?",
+              "In which year, Akbar had centralized the control and functioning of various mints?"],
+            "ans": [
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              }
+            ]
+          },
+          {
+            "lname": "medium",
+            "ques": ["Etti, Kavidi and Eradi are names of which among the following in sangam age?",
+              "Prithviraj Raso of Chand Bardai was originally written in which of these languages?",
+              "Ramanuja taught in which of the following temples?",
+              "The Third battle of Panipat was fought between ?",
+              "Which among the following was not a landmark of the Iltutmish’s rule?",
+              "Who among the following were Saints of Varkari sect ?",
+              "Where is the Chittorgarh fort located?",
+              "Which sultan of Delhi was a contemporary of the Mongol leader Genghis Khan?",
+              "Who patronised scholars like Hasan Nizami and Fakhr – i – Mudabbir?",
+              "Who among the following ruler was popular by the name of Lakha Baksh?"],
+            "ans": [
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              }
+            ]
+          },
+          {
+            "lname": "hard",
+            "ques": ["In medieval India, Solanki queen Naikidevi defeated which of the following invaders in the Battle of Kayadara?",
+              "In medieval India, Solanki queen Naikidevi defeated which of the following invaders in the Battle of Kayadara?",
+              "Which of the following rulers earned the title of Purvapaschima Samudradhishavara?",
+              "The temples of Halebid and Belur were built by which among the following dynasties?",
+              "In which year, Akbar had centralized the control and functioning of various mints?",
+              "Who among the following were Saints of Varkari sect ?",
+              "Where is the Chittorgarh fort located?",
+              "Which sultan of Delhi was a contemporary of the Mongol leader Genghis Khan?",
+              "Who patronised scholars like Hasan Nizami and Fakhr – i – Mudabbir?",
+              "Who among the following ruler was popular by the name of Lakha Baksh?"],
+            "ans": [
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [1,2,3]
+              },
+              {
+                "answer": [4,5,6]
+              },
+              {
+                "answer": [7,8,9]
+              },
+              {
+                "answer": [1,2,3]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+
+  }
+
+]
